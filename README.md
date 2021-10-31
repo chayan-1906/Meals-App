@@ -1,6 +1,6 @@
 # Meals App
 
-This is a Flutter Project. 8 Categories are added and each category has various kinds of foods and food recipes. User can make a food favorite, also can filter according to the Gluten-free, Lactose-free, Veg or Non-veg & Vegan.
+This is a Flutter Project. 10 Categories are added and each category has various kinds of foods and food recipes. User can make a food favorite, also can filter according to the Gluten-free, Lactose-free, Veg or Non-veg & Vegan.
 
 ![Categories](https://user-images.githubusercontent.com/82430454/139583106-797e3a6f-9319-499c-bcf3-52ed2225ab9e.jpg)
 
